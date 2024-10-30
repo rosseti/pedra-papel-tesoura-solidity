@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game Contract
 
-This is the Solidity contract for a decentralized Rock Paper Scissors game. It allows players to play the game against each other and track their wins and losses.
+This Solidity contract implements a decentralized Rock Paper Scissors game. It allows players to compete against the CPU using pseudo-random techniques.
 
 ## Installation
 
