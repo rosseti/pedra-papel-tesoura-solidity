@@ -6,7 +6,7 @@ This Solidity contract implements a decentralized Rock Paper Scissors game. It a
 
 To install and run this contract, you will need to have Node.js and npm installed.
 
-1. Clone this repository: `git clone https://github.com/rosseti/rock-paper-scissors-contract.git`
+1. Clone this repository: `git clone https://github.com/rosseti/rock-paper-scissors-solidity.git`
 2. Install the dependencies: `npm install`
 3. Compile the contract: `yarn compile`
 4. Serve local node: `yarn serve`
